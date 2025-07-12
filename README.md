@@ -1,6 +1,9 @@
 
 # 🪙 POGChain Full Starter Blockchain (with Kiosk)
 
+
+new features tomorrow
+
 ## Features:
 - ✅ Standalone Python blockchain engine
 - ✅ Local wallet generator
